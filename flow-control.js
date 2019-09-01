@@ -1,8 +1,8 @@
-function basicTeenager(age) {
+function basicTeenager (13-19) => {"You are a teenager!"
 
 }
 
-function teenager(age) {
+function teenager (age) {
 
 }
 
