@@ -30,3 +30,16 @@ function ternaryTeenager(age) {
 function switchAge(age) {
 
 }
+
+/*
+switch (expression) {
+  case n:
+      // code to be executed if case n is true
+      break; // break out of switch statement once code executed
+  case m:
+      // code to be executed if case m is true
+      break; // break out of switch statement once code executed
+  default:  // all other cases
+      // code to be executed if case n and case m false
+}
+*/
